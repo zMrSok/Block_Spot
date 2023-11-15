@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699526236232",
+    "project_id": "conference-5c395",
+    "storage_bucket": "conference-5c395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699526236232:android:ad3e38627d7e238502f07d",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCXKLLtTY0ajEAjU5h3ATcuOCmMFbUM_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
